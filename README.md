@@ -1,5 +1,9 @@
-## Hi there 👋
-
+- 👋 Hi, I’m @BharghavaG
+- 👀 I’m interested in Artificial Intellingence and Machine Learning
+- 🌱 I’m currently learning Natural Language Processing (NLP)
+- 💞️ I’m looking to collaborate on AI
+- 📫 How to reach me goudiBharghava@gmail.com
+- 😄 Pronouns: he/his
 <!--
 **BharghavaG/BharghavaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
